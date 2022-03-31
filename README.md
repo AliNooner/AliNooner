@@ -23,8 +23,8 @@ I'm Ali Nooner - a former service industry worker turned Software Engineer([Turi
 
 ## Other Skills
 - Test Driven Development
-- RESTful APIs
-- Project Management
 - Accessibility/ARIA
 - Responsive Design
+- RESTful APIs
+- Project Management
 - Leadership
