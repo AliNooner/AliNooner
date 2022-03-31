@@ -5,6 +5,7 @@ I'm Ali Nooner - a former service industry worker turned Software Engineer([Turi
 - 👩🏼‍💻 Pronouns: she/her
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/alisonnooner/)
 - 📚 Previous education: Associate of Arts at Normandale College
+- ✨ Passions: Increasing accessibility in my work, being a part of a diverse team, supporting my peers 
 
 ## Technologies
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
