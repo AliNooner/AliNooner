@@ -1,6 +1,6 @@
 ### So nice to meet ya! 👋🏼
 
-I'm Ali Nooner - a former service industry worker turned Software Engineer([Turing School of Software and Design](https://turing.edu/) student). My extensive background in the service industry has taught me to problem solve quickly and consistently and to be successful in constantly changing and challenging environments. I can't wait to make a positive change in this world through my work as a software developer!
+I'm Ali Nooner - a former hospitality manager turned Software Engineer([Turing School of Software and Design](https://turing.edu/) student). My extensive background in the service industry has taught me to problem solve quickly and consistently and to be successful in constantly changing and challenging environments. I can't wait to make a positive change in this world through my work as a software developer!
 
 - 👩🏼‍💻 Pronouns: she/her
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/alisonnooner/)
